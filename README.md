@@ -12,7 +12,7 @@ Este é um projeto simples de um sistema bancário desenvolvido em Java. O progr
 
 1. Clone o repositório:
     ```bash
-    git clone [(https://github.com/Sayonarakeroll/Conta_Banco.git)
+    git clone https://github.com/Sayonarakeroll/Conta_Banco.git
     ```
 
 2. Acesse o diretório do projeto:
