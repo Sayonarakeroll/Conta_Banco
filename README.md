@@ -17,7 +17,7 @@ Este é um projeto simples de um sistema bancário desenvolvido em Java. O progr
 
 2. Acesse o diretório do projeto:
     ```bash
-    cd ContaBanco
+    cd Conta_Banco
     ```
 
 ## Uso
