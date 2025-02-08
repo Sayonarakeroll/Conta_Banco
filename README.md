@@ -1,4 +1,4 @@
-# ContaBanco
+# Conta_Banco
 
 Este é um projeto simples de um sistema bancário desenvolvido em Java. O programa solicita informações do usuário via terminal e exibe uma mensagem formatada com os dados da conta bancária.
 
